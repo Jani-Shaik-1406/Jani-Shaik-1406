@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Jani Shariff Shaik 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | Healthcare & Cloud Analytics | Machine Learning Enthusiast</b><br>
+  <b>Data Analyst | Machine Learning Enthusiast</b><br>
   <i>Solving real-world problems through scalable analytics and intelligent automation</i>
 </p>
 
