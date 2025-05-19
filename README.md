@@ -13,7 +13,8 @@
 - 📍 Open to Remote/Hybrid roles
 - 🎓 MS in Applied Statistics & Data Science — University of Texas at Arlington
 - 🧠 3+ years of experience in Healthcare, FinTech, and Retail analytics
-- 💡 Proven experience designing cloud-native data pipelines using Snowflake, Azure, and AWS—enabling scalable analytics, automated reporting, and real-time decision support for cross-functional teams.
+- 💡 Proven experience designing cloud-native data pipelines using Snowflake, Azure, and                                                                  
+      AWS—enabling scalable analytics, automated reporting, and real-time decision support for cross-functional teams.
 - 🌐 Portfolio: [janishariffshaik.wixstudio.com/portfolio](https://janishariffshaik.wixstudio.com/portfolio)
 
 ---
