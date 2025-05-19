@@ -10,8 +10,8 @@
 
 ### 💼 About Me
 
-- 📍 Open to Remote/Hybrid roles
-- 🎓 MS in Applied Statistics & Data Science — University of Texas at Arlington
+- 📍 Open to Onsite/Remote/Hybrid roles
+- 🎓 MS in Applied Statistics & Data Science — University of Texas at Arlington, BS in Computer Science - Vignan's Institute Of IT
 - 🧠 3+ years of experience in Healthcare, FinTech, and Retail analytics
 - 💡 Proven experience designing cloud-native data pipelines using Snowflake, Azure, and                                                                  
       AWS—enabling scalable analytics, automated reporting, and real-time decision support for cross-functional teams.
