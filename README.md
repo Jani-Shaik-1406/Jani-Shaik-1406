@@ -47,6 +47,6 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: shaikjanishariff@gmail.com  
+- 📧 Email: shaikjani1406@gmail.com  
 - 💼 LinkedIn: [www.linkedin.com/in/jani-shariff-shaik-374998292](https://www.linkedin.com/in/jani-shariff-shaik-374998292)  
 - 🌐 Portfolio: [janishariffshaik.wixstudio.com/portfolio](https://janishariffshaik.wixstudio.com/portfolio)
